@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "01_dashboard",
+    "route": "/",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/",
+    "loadMs": 4557,
+    "perf": {
+      "domContentLoaded": 942,
+      "loadEvent": 1052,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 293
+    },
+    "bodyTextLen": 372,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nUSTEDI University\nNama Lengkap\n\n:\n\nHanang Prasetyo, S.Kom\nWebsite\n\n:\n\nhttps://ustedi.ac.id/\nEmail\n\n:\n\nhans@gmail.com\nLog Aktivitas\nTanggal\n\t\nDeskripsi\n\t\nUser\n\n09 Jun 2026\tTesting Activity Log\t\nShowing 1 to 1 of 1 entries\n10\n20\n30\n50\n100\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "USTEDI University",
+      "Nama Lengkap",
+      "Hanang Prasetyo, S.Kom",
+      "Website",
+      "https://ustedi.ac.id/",
+      "Email",
+      "hans@gmail.com",
+      "Log Aktivitas"
+    ],
+    "tableHeaders": [
+      "Tanggal",
+      "Deskripsi",
+      "User"
+    ],
+    "tabs": [
+      "USTEDI University",
+      "Dashboard",
+      "USTEDI University\nHub",
+      "Dashboard"
+    ],
+    "buttons": [
+      "1"
+    ],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 1,
+    "imgCount": 5,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "02_profile",
+    "route": "/users/profile",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/users/profile/",
+    "loadMs": 3119,
+    "perf": {
+      "domContentLoaded": 253,
+      "loadEvent": 254,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 247
+    },
+    "bodyTextLen": 234,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nInformasi Akun\nNama Lengkap\nEmail\nUsername\nUsername Feeder\nPassword Baru (Opsional)\nSimpan Perubahan\n© 2026. USTEDI University All rights reserved.",
+    "title": "Profil Pengguna",
+    "h1": [],
+    "tableHeaders": [],
+    "tabs": [
+      "Profile"
+    ],
+    "buttons": [
+      "Simpan Perubahan"
+    ],
+    "labels": [
+      "Nama Lengkap",
+      "Email",
+      "Username",
+      "Username Feeder",
+      "Password Baru (Opsional)"
+    ],
+    "emptyText": "",
+    "rowCount": 0,
+    "imgCount": 5,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "02b_user-account-settings",
+    "route": "/users/user-account-settings",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/users/user-account-settings/",
+    "loadMs": 2657,
+    "perf": {
+      "domContentLoaded": 249,
+      "loadEvent": 249,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 314
+    },
+    "bodyTextLen": 404,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nUsers\nAccount Settings\nSettings\nHome\nPayment Details\nPreferences\nDanger Zone\nGeneral Information\nFull Name\nProfession\nCountry\nAll Countries\nUnited States\nIndia\nJapan\nChina\nBrazil\nNorway\nCanada\nAddress\nLocation\nPhone\nEmail\nWebsite\nMake this my default address\nSave\nSocial\n© 2026. USTEDI University All rights reserved.",
+    "title": "Account Setting",
+    "h1": [],
+    "tableHeaders": [],
+    "tabs": [
+      "Home",
+      "Payment Details",
+      "Preferences",
+      "Danger Zone"
+    ],
+    "buttons": [
+      "Save"
+    ],
+    "labels": [
+      "Full Name",
+      "Profession",
+      "Country",
+      "Address",
+      "Location",
+      "Phone",
+      "Email",
+      "Website",
+      "Make this my default address"
+    ],
+    "emptyText": "",
+    "rowCount": 0,
+    "imgCount": 5,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "03_pelaporan",
+    "route": "/pelaporan",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/pelaporan/",
+    "loadMs": 3101,
+    "perf": {
+      "domContentLoaded": 232,
+      "loadEvent": 233,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 346
+    },
+    "bodyTextLen": 532,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\n\n274\n\nJumlah Data Akademik\n\n56\n\nJumlah Data Yang Sudah Terlapor\n\n63\n\nJumlah Data Akan Dikirim\n\n0\n\nJumlah Data Gagal Dikirim\n\n20\n\nJumlah Data Feeder\nNama Tabel\tGagal Dikirim\tDalam Proses\tBerhasil Dikirim\nbiodata_mahasiswa\t10\t2\t10\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Jumlah Data Akademik",
+      "Jumlah Data Yang Sudah Terlapor",
+      "Jumlah Data Akan Dikirim",
+      "Jumlah Data Gagal Dikirim",
+      "Jumlah Data Feeder"
+    ],
+    "tableHeaders": [
+      "Nama Tabel",
+      "Gagal Dikirim",
+      "Dalam Proses",
+      "Berhasil Dikirim"
+    ],
+    "tabs": [
+      "Pelaporan",
+      "Pelaporan"
+    ],
+    "buttons": [],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 1,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "04_mahasiswa_biodata",
+    "route": "/mahasiswa/biodata-mhs",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/mahasiswa/biodata-mhs/",
+    "loadMs": 3119,
+    "perf": {
+      "domContentLoaded": 291,
+      "loadEvent": 294,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 594
+    },
+    "bodyTextLen": 1040,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Biodata Mahasiswa\n\n23\n\nJumlah Data Akademik\n\n0\n\nJumlah Data Yang Sudah Terlapor\n\n0\n\nJumlah Data Akan Dikirim\n\n0\n\nJumlah Data Gagal Dikirim\n\n0\n\nJumlah Data Feeder\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Lengkap\n\t\nNIK\n\t\nEmail\n\t\nDetail\n\n\n\tMuhammad Bagas Raihan Nur Fahrezy\t3312102019201927\t\t\n\n\n\tNabila Russel\t3412548928910001\t\t\n\n\n\tBani Rijal Barufaza\t33721234567890\tpaus.beluga029@gmail.com\t\n\n\n\tMuhammad Bagas Raihan Nur Fahrezy\t3312102019201920\t21500023.bagas@sinus.ac.id\t\n\n\n\tVinur Risnanda Abadi\t3312091081092121\t\t\n\n\n\tMuhammad Bagas",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Biodata Mahasiswa",
+      "Jumlah Data Akademik",
+      "Jumlah Data Yang Sudah Terlapor",
+      "Jumlah Data Akan Dikirim",
+      "Jumlah Data Gagal Dikirim",
+      "Jumlah Data Feeder"
+    ],
+    "tableHeaders": [
+      "Nama Lengkap",
+      "NIK",
+      "Email",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2",
+      "3"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "05_mahasiswa_perkuliahan",
+    "route": "/mahasiswa/perkuliahan-mhs",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/mahasiswa/perkuliahan-mhs/",
+    "loadMs": 2879,
+    "perf": {
+      "domContentLoaded": 268,
+      "loadEvent": 273,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 556
+    },
+    "bodyTextLen": 496,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Perkuliahan Mahasiswa\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nIPS\n\t\nIPK\n\t\nSKS Semester\n\t\nBiaya Kuliah Semester\n\t\nDetail\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n\n\n\t\t\t\t\t\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Perkuliahan Mahasiswa"
+    ],
+    "tableHeaders": [
+      "IPS",
+      "IPK",
+      "SKS Semester",
+      "Biaya Kuliah Semester",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 8,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "06_mahasiswa_riwayat",
+    "route": "/mahasiswa/riwayat-pendidikan-mhs",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/mahasiswa/riwayat-pendidikan-mhs/",
+    "loadMs": 2946,
+    "perf": {
+      "domContentLoaded": 236,
+      "loadEvent": 237,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 562
+    },
+    "bodyTextLen": 788,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Riwayat Pendidikan Mahasiswa\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNPM\n\t\nNama Mahasiswa\n\t\nDetail\n\n\n\t2622620101000001\tMuhammad Bagas Raihan Nur Fahrezy\t\n\n\n\t2616220101000001\tNabila Russel\t\n\n\n\tAKN00000001\tBani Rijal Barufaza\t\n\n\n\tINF00000001\thanang junior\t\n\n\n\t26INF00000002\tHanang Trial\t\n\n\n\t260200000003\tMuhammad Bagas\t\n\n\n\tMNJ00000001\tdexzaaaaaaaa\t\n\n\n\tMNJ00000001\tVinur Risnanda Abadi\t\n\n\n\t2610207020002\tMuhammad Bagas Raihan Nur Fahrezy\t\n\n\n\tMNJ00000002\tMahasiswa Manejemen\t\n1\n2\n3\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Riwayat Pendidikan Mahasiswa"
+    ],
+    "tableHeaders": [
+      "NPM",
+      "Nama Mahasiswa",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2",
+      "3"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "07_mahasiswa_aktivitas",
+    "route": "/mahasiswa/aktivitas-mhs",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/mahasiswa/aktivitas-mhs/",
+    "loadMs": 2719,
+    "perf": {
+      "domContentLoaded": 236,
+      "loadEvent": 238,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 593
+    },
+    "bodyTextLen": 836,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Aktivitas Mahasiswa\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nKode Periode Akademik\n\t\nJudul\n\t\nTanggal Mulai\n\t\nTanggal Selesai\n\t\nDetail\n\n\n\t202601\tPanjang Umur\t05 Mei 2026\t06 Jun 2026\t\n\n\n\t202501\tData Mining\t02 Feb 2026\t03 Mar 2026\t\n\n\n\t\tsad\t01 Jan 2026\t-\t\n\n\n\t\tData Mining\t02 Feb 2026\t-\t\n\n\n\t\tkwlqek\t02 Feb 2026\t-\t\n\n\n\t\terror.response?.data?.message\t10 Jun 2026\t-\t\n\n\n\t\terror.response?.data?.message\t10 Jun 2026\t-\t\n\n\n\t\terror.response?.data?.message\t10 Jun 2026\t-\t\n\n\n\t\tDollar Naik Tajam\t09 Jun 2026\t-\t\n\n\n\t\tKenapa Pra\t01 Jun 2026\t-\t\n1\n2\n© 2026. US",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Aktivitas Mahasiswa"
+    ],
+    "tableHeaders": [
+      "Kode Periode Akademik",
+      "Judul",
+      "Tanggal Mulai",
+      "Tanggal Selesai",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "08_mahasiswa_prestasi",
+    "route": "/mahasiswa/prestasi-mhs",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/mahasiswa/prestasi-mhs/",
+    "loadMs": 2791,
+    "perf": {
+      "domContentLoaded": 247,
+      "loadEvent": 250,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 464
+    },
+    "bodyTextLen": 508,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Prestasi Mahasiswa\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Prestasi\n\t\nTahun Prestasi\n\t\nDetail\n\n\n\tDebat Nasional\t2026\t\n\n\n\tLomba Mewarnai\t2026\t\n\n\n\tExpo International\t2026\t\n\n\n\tAktivitas 1\t2026\t\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Prestasi Mahasiswa"
+    ],
+    "tableHeaders": [
+      "Nama Prestasi",
+      "Tahun Prestasi",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 4,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "09_matakuliah",
+    "route": "/matakuliah",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/matakuliah/",
+    "loadMs": 2799,
+    "perf": {
+      "domContentLoaded": 287,
+      "loadEvent": 290,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 563
+    },
+    "bodyTextLen": 760,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Matakuliah\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nKode Matakuliah\n\t\nNama Matakuliah\n\t\nDetail\n\n\n\tBD2026\tBasis Data\t\n\n\n\tMKWP45217\tPasar Modal dan Pasar Uang\t\n\n\n\tMKWP45218\tStudi Kelayakan Bisnis\t\n\n\n\tMKWS45204\tPerilaku Organisasai\t\n\n\n\tMKWS45205\tManajemen Koperasi dan UMKM\t\n\n\n\tMKWS45206\tManajemen Risiko\t\n\n\n\tMKWP55220\tKewirausahaan\t\n\n\n\tMKWS55207\tHukum dan Etika Bisnis\t\n\n\n\tMKWS55208\tBisnis Ritel\t\n\n\n\tMKWS55209\tKomunikasi Massa dan E-Commerce\t\n1\n2\n3\n4\n5\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Matakuliah"
+    ],
+    "tableHeaders": [
+      "Kode Matakuliah",
+      "Nama Matakuliah",
+      "Detail"
+    ],
+    "tabs": [
+      "Matakuliah"
+    ],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "10_kelas_kuliah",
+    "route": "/kelas-kuliah",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/kelas-kuliah/",
+    "loadMs": 2719,
+    "perf": {
+      "domContentLoaded": 239,
+      "loadEvent": 242,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 560
+    },
+    "bodyTextLen": 659,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Kelas Kuliah\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Kelas Kuliah\n\t\nSKS\n\t\nDetail\n\n\n\tKonsep Pemrograman A\t4.0\t\n\n\n\tAnalisa Laporan Keuangan A\t3.0\t\n\n\n\tManajemen A\t3.0\t\n\n\n\tPengantar A\t3.0\t\n\n\n\tKelas Kuliah 2\t3.0\t\n\n\n\tMatematika Bisnis A\t3.0\t\n\n\n\tPengantar Manajemen A\t3.0\t\n\n\n\tPengantar Bisnis\t3.0\t\n\n\n\tBahasa Inggris Dasar A\t2.0\t\n\n\n\tTes Kelas\t3.0\t\n1\n2\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Kelas Kuliah"
+    ],
+    "tableHeaders": [
+      "Nama Kelas Kuliah",
+      "SKS",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "11_kelas_peserta",
+    "route": "/kelas-kuliah/peserta-kelas-kuliah",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/kelas-kuliah/peserta-kelas-kuliah/",
+    "loadMs": 2748,
+    "perf": {
+      "domContentLoaded": 247,
+      "loadEvent": 248,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 561
+    },
+    "bodyTextLen": 693,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Kelas Kuliah\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nKode Kelas Kuliah\n\t\nNama Kelas Kuliah\n\t\nDetail\n\n\n\tkp-a\tKonsep Pemrograman A\t\n\n\n\tALKA2026\tAnalisa Laporan Keuangan A\t\n\n\n\t201012026\tManajemen A\t\n\n\n\tPA\tPengantar A\t\n\n\n\tkls-kuliah-2\tKelas Kuliah 2\t\n\n\n\tMBA\tMatematika Bisnis A\t\n\n\n\tPMA\tPengantar Manajemen A\t\n\n\n\tPBA\tPengantar Bisnis\t\n\n\n\tBIA\tBahasa Inggris Dasar A\t\n\n\n\tT01\tTes Kelas\t\n1\n2\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Kelas Kuliah"
+    ],
+    "tableHeaders": [
+      "Kode Kelas Kuliah",
+      "Nama Kelas Kuliah",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "12_kelas_komponen",
+    "route": "/kelas-kuliah/komponen-evaluasi",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/kelas-kuliah/komponen-evaluasi/",
+    "loadMs": 2736,
+    "perf": {
+      "domContentLoaded": 219,
+      "loadEvent": 332,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 363
+    },
+    "bodyTextLen": 483,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nKomponen Evaluasi\nFilter\nKirim\n\tNama Unsur Nilai\tBobot\tDetail\n\n\nSilakan pilih Kurikulum terlebih dahulu\n\nGunakan tombol Filter di atas, pilih kurikulum, lalu klik Apply Filter.\n\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Komponen Evaluasi"
+    ],
+    "tableHeaders": [
+      "Nama Unsur Nilai",
+      "Bobot",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 1,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "13_kurikulum",
+    "route": "/kurikulum",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/kurikulum/",
+    "loadMs": 3130,
+    "perf": {
+      "domContentLoaded": 242,
+      "loadEvent": 244,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 592
+    },
+    "bodyTextLen": 694,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Kurikulum\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Kurikulum\n\t\nSKS Lulus\n\t\nSKS Wajib\n\t\nSKS Pilihan\n\t\nDetail\n\n\n\tKurikulum 2026\t21\t21\t0\t\n\n\n\tKurikulum 2026\t21\t21\t0\t\n\n\n\tKurikulum 2026\t14\t14\t0\t\n\n\n\tKurikulum 2026\t19\t19\t0\t\n\n\n\tKurikulum 2026\t23\t23\t0\t\n\n\n\tKurikulum 2026\t21\t21\t0\t\n\n\n\tKurikulum 2026\t6\t6\t0\t\n\n\n\tKurikulum 2026\t21\t21\t0\t\n\n\n\tKurikulum 2026\t23\t23\t0\t\n\n\n\tKurikulum 2026\t18\t18\t0\t\n1\n2\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Kurikulum"
+    ],
+    "tableHeaders": [
+      "Nama Kurikulum",
+      "SKS Lulus",
+      "SKS Wajib",
+      "SKS Pilihan",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "14_kurikulum_matkul",
+    "route": "/kurikulum/matkul-kurikulum",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/kurikulum/matkul-kurikulum/",
+    "loadMs": 2759,
+    "perf": {
+      "domContentLoaded": 252,
+      "loadEvent": 254,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 632
+    },
+    "bodyTextLen": 979,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Matakuliah Kurikulum\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nKode Matakuliah\n\t\nNama Matakuliah\n\t\nSemester\n\t\nSKS Mata Kuliah\n\t\nStatus\n\t\nDetail\n\n\n\tMKWS65217\tPemasaran International\t6\t3.0\tWajib\t\n\n\n\tMKWK15101\tPendidikan Agama\t1\t2.0\tWajib\t\n\n\n\tMKK3326\tPerilaku Konsumen dan Lingkungan Bisnis\t3\t3.0\tTidak Wajib\t\n\n\n\tMKWP45218\tStudi Kelayakan Bisnis\t4\t3.0\tWajib\t\n\n\n\tMKWS35202\tManajemen Operasi\t3\t3.0\tWajib\t\n\n\n\tMKWP35215\tSistem Informasi Manajemen\t3\t3.0\tWajib\t\n\n\n\tMKWS55114\tManajemen Perpajakan\t6\t3.0\tWajib\t\n\n\n\tMKWS65213\tPerencanaan dan Pengamban",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Matakuliah Kurikulum"
+    ],
+    "tableHeaders": [
+      "Kode Matakuliah",
+      "Nama Matakuliah",
+      "Semester",
+      "SKS Mata Kuliah",
+      "Status",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "15_rencana_pembelajaran",
+    "route": "/rencana-pembelajaran",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/rencana-pembelajaran/",
+    "loadMs": 2782,
+    "perf": {
+      "domContentLoaded": 273,
+      "loadEvent": 274,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 460
+    },
+    "bodyTextLen": 1232,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nRencana Pembelajaran\nFilter\nKirim\n\tPertemuan\tMateri (Indonesia)\tMateri (Inggris)\tDetail\n\twqe (sadsadw)\n\t- Tidak ada komponen rencana pembelajaran -\n\tPenganggaran (MKWS4351)\n\t- Tidak ada komponen rencana pembelajaran -\n\tSkripsi (5W0003)\n\t- Tidak ada komponen rencana pembelajaran -\n\tMatakuliah baru (matakuliah-baru)\n\t- Tidak ada komponen rencana pembelajaran -\n\ttes (tesedit)\n\t- Tidak ada komponen rencana pembelajaran -\n\tBasis Data (BD2026)\n\t10\tvariable\tvariable\t\n\n\tSemantic Web (SW2026)\n\t-\tIni Rencana Pembelajaran\tIni Rencana Pembelajaran\t\n",
+    "title": "USTEDI University",
+    "h1": [
+      "Rencana Pembelajaran"
+    ],
+    "tableHeaders": [
+      "Pertemuan",
+      "Materi (Indonesia)",
+      "Materi (Inggris)",
+      "Detail"
+    ],
+    "tabs": [
+      "Rencana Pembelajaran"
+    ],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2",
+      "3",
+      "13"
+    ],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 22,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "16_periode_perkuliahan",
+    "route": "/periode-perkuliahan",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/periode-perkuliahan/",
+    "loadMs": 2912,
+    "perf": {
+      "domContentLoaded": 499,
+      "loadEvent": 502,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 422
+    },
+    "bodyTextLen": 459,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nPeriode Perkuliahan\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Program Studi\n\t\nSemester ID\n\t\nJumlah Target Mahasiswa Baru\n\t\nDetail\n\n\n\tInformatika\t202601\t100\t\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Periode Perkuliahan"
+    ],
+    "tableHeaders": [
+      "Nama Program Studi",
+      "Semester ID",
+      "Jumlah Target Mahasiswa Baru",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 1,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "17_periode_jalur",
+    "route": "/periode-perkuliahan/jalur-pendaftaran",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/periode-perkuliahan/jalur-pendaftaran/",
+    "loadMs": 2801,
+    "perf": {
+      "domContentLoaded": 263,
+      "loadEvent": 266,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 491
+    },
+    "bodyTextLen": 581,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Jalur Pendaftaran\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Jalur Daftar\n\t\nSemester ID\n\t\nJumlah Target Mahasiswa Baru\n\t\nDetail\n\n\n\tReguler Sore\t202601\t100\t\n\n\n\tReguler Pagi\t202601\t100\t\n\n\n\tReguler Pagi\t202601\t100\t\n\n\n\tReguler Pagi\t202601\t100\t\n\n\n\tReguler Pagi\t202601\t90\t\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Jalur Pendaftaran"
+    ],
+    "tableHeaders": [
+      "Nama Jalur Daftar",
+      "Semester ID",
+      "Jumlah Target Mahasiswa Baru",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 5,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "18_rencana_evaluasi",
+    "route": "/rencana-evaluasi",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/rencana-evaluasi/",
+    "loadMs": 2854,
+    "perf": {
+      "domContentLoaded": 239,
+      "loadEvent": 241,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 1115
+    },
+    "bodyTextLen": 1900,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nRencana Evaluasi Pendidikan\nFilter\nKirim\n\tNama Evaluasi\tBobot Evaluasi\tDetail\n\twqe (sadsadw)\n\ttes\t15.00\t\n\n\tKehadiran\t10.00\t\n\n\tUnsur 1\t20.00\t\n\n\tUAS\t40.00\t\n\n\tUTS\t30.00\t\n\n\tTugas\t10.00\t\n\n\tAktivitas\t10.00\t\n\n\tQuiz\t10.00\t\n\n\tPenganggaran (MKWS4351)\n\ttes\t15.00\t\n\n\tKehadiran\t10.00\t\n\n\tUnsur 1\t20.00\t\n\n\tUAS\t40.00\t\n\n\tUTS\t30.00\t\n\n\tTugas\t10.00\t\n\n\tAktivitas\t10.00\t\n\n\tQuiz\t10.00\t\n\n\tSkripsi (5W0003)\n\ttes\t15.00\t\n\n\tKehadiran\t10.00\t\n\n\tUnsur 1\t20.00\t\n\n\tUAS\t40.00\t\n\n\tUTS\t30.00\t\n\n\tTugas\t10.00\t\n\n\tAktivitas\t10.00\t\n\n\tQuiz\t10.00\t\n\n\tMatakuliah baru (matakuliah-baru)\n\tte",
+    "title": "USTEDI University",
+    "h1": [
+      "Rencana Evaluasi Pendidikan"
+    ],
+    "tableHeaders": [
+      "Nama Evaluasi",
+      "Bobot Evaluasi",
+      "Detail"
+    ],
+    "tabs": [
+      "Rencana Evaluasi"
+    ],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 90,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "19_substansi",
+    "route": "/subtansi-kuliah",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/subtansi-kuliah/",
+    "loadMs": 2693,
+    "perf": {
+      "domContentLoaded": 233,
+      "loadEvent": 234,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 408
+    },
+    "bodyTextLen": 408,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Substansi Kuliah\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Subtansi\n\t\nDetail\n\n\n\tSubstansi 1\t\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Substansi Kuliah"
+    ],
+    "tableHeaders": [
+      "Nama Subtansi",
+      "Detail"
+    ],
+    "tabs": [
+      "Subtansi Kuliah"
+    ],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 1,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "20_dosen_pengajar",
+    "route": "/dosen-pengajar",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/dosen-pengajar/",
+    "loadMs": 2809,
+    "perf": {
+      "domContentLoaded": 247,
+      "loadEvent": 249,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 576
+    },
+    "bodyTextLen": 1000,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nSinkronisasi Dosen Pengajaran Kelas Kuliah\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nNama Dosen\n\t\nNama Kelas Kuliah\n\t\nKode Kelas Kuliah\n\t\nDetail\n\n\n\tDr. Sutianingsih, S.E., M.M.\tKonsep Pemrograman A\tkp-a\t\n\n\n\tSarbullah, S.E., M.Si\tAkuntansi Keuangan Lanjutan II A\tAKLIIA2026\t\n\n\n\tNatoil, S.Ag., M.M.\tAkuntansi Syariah A\tASA2026\t\n\n\n\tSarbullah, S.E., M.Si\tAkuntansi Internasional A\tAIA2026\t\n\n\n\tDr. H. Rokhmad Budiyono, S.Pd., M.M\tAkuntansi Internasional A\tAIA2026\t\n\n\n\t\tAkuntansi Internasional A\tAIA2026\t\n\n\n\tWafi Arifin, S.Kom., M.Kom\tManajemen A\t201012026\t",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Dosen Pengajaran Kelas Kuliah"
+    ],
+    "tableHeaders": [
+      "Nama Dosen",
+      "Nama Kelas Kuliah",
+      "Kode Kelas Kuliah",
+      "Detail"
+    ],
+    "tabs": [
+      "Dosen Pengajar Kelas Kuliah"
+    ],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1",
+      "2"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "21_kampus_merdeka",
+    "route": "/kampus-merdeka",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/kampus-merdeka/",
+    "loadMs": 2689,
+    "perf": {
+      "domContentLoaded": 269,
+      "loadEvent": 271,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 372
+    },
+    "bodyTextLen": 506,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nMahasiswa\nMatakuliah\nKelas Kuliah\nKurikulum\nRencana Pembelajaran\nPeriode Perkuliahan\nRencana Evaluasi\nSubtansi Kuliah\nDosen Pengajar Kelas Kuliah\nKonversi Kampus Merdeka\nKonversi Kampus Merdeka\nFilter\nKirim\n\tKode Matakuliah\tNama Matakuliah\tNilai\tStatus Lulus\tDetail\n\tMNJ00000002 - Mahasiswa Manejemen\n\tMKWP15201\tBahasa Inggris Dasar\t80.00\tLulus\t\nMenampilkan 1 - 1 dari 1\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Konversi Kampus Merdeka"
+    ],
+    "tableHeaders": [
+      "Kode Matakuliah",
+      "Nama Matakuliah",
+      "Nilai",
+      "Status Lulus",
+      "Detail"
+    ],
+    "tabs": [
+      "Konversi Kampus Merdeka"
+    ],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 2,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "22_feeder_master",
+    "route": "/feeder",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/feeder/",
+    "loadMs": 2638,
+    "perf": {
+      "domContentLoaded": 234,
+      "loadEvent": 235,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 298
+    },
+    "bodyTextLen": 444,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nAgama\nAlat Transportasi\nBentuk Pendidikan\nIkatan Kerja SDM\nJabatan Fungsional\nJalur Masuk\nJenis Aktivitas Mahasiswa\nJenis Evaluasi\nJenis Keluar\nJenis Pendaftaran\nJenis Prestasi\nJenis Substansi\nJenjang Pendidikan\nJenis Tinggal\nKategori Kegiatan\nKebutuhan Khusus\nPekerjaan\nPembiayaan\nPenghasilan\nStatus Mahasiswa\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [],
+    "tableHeaders": [],
+    "tabs": [
+      "Data Feeder",
+      "Data Feeder"
+    ],
+    "buttons": [],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 0,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "23_feeder_agama",
+    "route": "/feeder/agama",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/feeder/agama/",
+    "loadMs": 2633,
+    "perf": {
+      "domContentLoaded": 225,
+      "loadEvent": 226,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 466
+    },
+    "bodyTextLen": 769,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nAgama\nAlat Transportasi\nBentuk Pendidikan\nIkatan Kerja SDM\nJabatan Fungsional\nJalur Masuk\nJenis Aktivitas Mahasiswa\nJenis Evaluasi\nJenis Keluar\nJenis Pendaftaran\nJenis Prestasi\nJenis Substansi\nJenjang Pendidikan\nJenis Tinggal\nKategori Kegiatan\nKebutuhan Khusus\nPekerjaan\nPembiayaan\nPenghasilan\nStatus Mahasiswa\nSinkronisasi Agama\nShow:\n10\n25\n50\n100\nKode Agama\n\t\nNama Agama\n\t\nNama Agama Feeder\n\t\nSinkronisasi\n\n11\tSikh\tLainnya\t\n\nagamaq123\tAgama ku keren\t\t\n\nkonghucu\tKonghucu\t\t\n\nKR\tKristen\t\t\n\nAgama1\tAgama123\t\t\n\nBUDHA\tBUDHA\t\t\n\nHINDU\tHINDU\t\t\n\nKATOLIK\tKATOLIK\t\t\n\n1211\tTest12\t\t\n\n67\tKrislam\t\t\nShowing 1 to 10 of 16 entries\n10\n20\n30\n50\n100\n1\n2\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Agama"
+    ],
+    "tableHeaders": [
+      "Kode Agama",
+      "Nama Agama",
+      "Nama Agama Feeder",
+      "Sinkronisasi"
+    ],
+    "tabs": [
+      "Agama"
+    ],
+    "buttons": [
+      "1",
+      "2"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 10,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "24_sister",
+    "route": "/sister",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/sister/",
+    "loadMs": 2615,
+    "perf": {
+      "domContentLoaded": 255,
+      "loadEvent": 256,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 322
+    },
+    "bodyTextLen": 242,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nKualifikasi\nKompetensi\nPelaksanaan Pendidikan\nPelaksanaan Penelitian\nPelaksanaan Pengabdian\nPenunjang\nReward\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [],
+    "tableHeaders": [],
+    "tabs": [
+      "Data Sister",
+      "Data Sister"
+    ],
+    "buttons": [],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 0,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "25_sister_pendidikan",
+    "route": "/sister/pendidikan-formal",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/sister/pendidikan-formal/",
+    "loadMs": 2667,
+    "perf": {
+      "domContentLoaded": 264,
+      "loadEvent": 266,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 446
+    },
+    "bodyTextLen": 439,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\nKualifikasi\nKompetensi\nPelaksanaan Pendidikan\nPelaksanaan Penelitian\nPelaksanaan Pengabdian\nPenunjang\nReward\nSinkronisasi Perkuliahan Mahasiswa\nShow:\n10\n25\n50\n100\nFilter\nKirim\n\t\nJenjang\n\t\nGelar\n\t\nBidang Studi\n\t\nPerguruan Tinggi\n\t\nTahun Lulus\n\t\nDetail\n\n\n\t\t\t\t\t\t\nShowing 1 to 1 of 1 entries\n10\n20\n30\n50\n100\n1\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [
+      "Sinkronisasi Perkuliahan Mahasiswa"
+    ],
+    "tableHeaders": [
+      "Jenjang",
+      "Gelar",
+      "Bidang Studi",
+      "Perguruan Tinggi",
+      "Tahun Lulus",
+      "Detail"
+    ],
+    "tabs": [],
+    "buttons": [
+      "Filter",
+      "Kirim",
+      "1"
+    ],
+    "labels": [
+      "Show:"
+    ],
+    "emptyText": "",
+    "rowCount": 1,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "26_statistik",
+    "route": "/statistik",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/statistik/",
+    "loadMs": 2564,
+    "perf": {
+      "domContentLoaded": 230,
+      "loadEvent": 230,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 211
+    },
+    "bodyTextLen": 133,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [],
+    "tableHeaders": [],
+    "tabs": [
+      "Statistik",
+      "Statistik"
+    ],
+    "buttons": [],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 0,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  },
+  {
+    "name": "27_setting",
+    "route": "/setting",
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedRequests": [],
+    "status": 200,
+    "finalUrl": "https://hub-feeder.dexone.id/setting/",
+    "loadMs": 2604,
+    "perf": {
+      "domContentLoaded": 230,
+      "loadEvent": 230,
+      "transferSize": 1693,
+      "decodedBodySize": 3239,
+      "domNodes": 211
+    },
+    "bodyTextLen": 133,
+    "bodyTextHead": "USTEDI University\nHub\nDashboard\nPelaporan\nData Feeder\nData Sister\nStatistik\nPengaturan\n© 2026. USTEDI University All rights reserved.",
+    "title": "USTEDI University",
+    "h1": [],
+    "tableHeaders": [],
+    "tabs": [
+      "Pengaturan",
+      "Pengaturan"
+    ],
+    "buttons": [],
+    "labels": [],
+    "emptyText": "",
+    "rowCount": 0,
+    "imgCount": 4,
+    "brokenImgs": 0,
+    "is404": false
+  }
+]
